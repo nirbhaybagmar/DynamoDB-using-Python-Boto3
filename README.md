@@ -1,6 +1,6 @@
 # DynamoDb-using-Python
 
-Install DynamoDB locally 
+Install DynamoDB locally <br>
 Setup Python and install boto
 Use boto dynamodb client to connect to DynamoDB
 Create a User table in DynamoDB
